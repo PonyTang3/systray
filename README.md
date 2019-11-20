@@ -34,7 +34,7 @@ func onExit() {
 Have go v1.12+ or higher installed? Here's an example to get started on macOS:
 
 ```sh
-git clone https://github.com/getlantern/systray
+git clone https://github.com/PonyTang3/systray
 env GO111MODULE=on go run systray/example/main.go
 ```
 
@@ -43,7 +43,7 @@ The following text will then appear on the console:
 
 ```sh
 go: finding github.com/skratchdot/open-golang latest
-go: finding github.com/getlantern/systray latest
+go: finding github.com/PonyTang3/systray latest
 go: finding github.com/getlantern/golog latest
 ```
 
